@@ -1,0 +1,3 @@
+[submodule "blog-frontend1"]
+	path = blog-frontend1
+	url = https://github.com/suhanar/Fullstack-Blog-app
